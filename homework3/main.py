@@ -1,4 +1,5 @@
 import dataProcessing
 import NeuralNetwork
-# import AutoEncoder
+import AutoEncoder
+import plotFeatures
 import numpy as np

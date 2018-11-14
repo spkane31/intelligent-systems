@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.16)  8 NOV 2018 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.16)  14 NOV 2018 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,34 +846,59 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (./report.aux)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count127
+\lst@gtempboxa=\box40
+\lst@token=\toks39
+\lst@length=\count128
+\lst@currlwidth=\dimen176
+\lst@column=\count129
+\lst@pos=\count130
+\lst@lostspace=\dimen177
+\lst@width=\dimen178
+\lst@newlines=\count131
+\lst@lineno=\count132
+\lst@maxwidth=\dimen179
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count133
+\lst@skipnumbers=\count134
+\lst@framebox=\box41
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
-\scratchdimen=\dimen176
-\scratchbox=\box40
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count130
-\MPscratchDim=\dimen177
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count135
+\scratchdimen=\dimen180
+\scratchbox=\box42
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen181
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks41
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -927,82 +952,72 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.13} into 
 your preamble.
- on input line 12.
+ on input line 13.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+\c@lstlisting=\count141
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-PGFPlots: reading {confusionmatrix.csv}
-
-! Too many }'s.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.58 \end{table}
-                
-? 
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.58 \end{table}
-                
-? 
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.58 \end{table}
-                
-? 
+PGFPlots: reading {confusionmatrix.csv}
 
-! LaTeX Error: \begin{document} ended by \end{table}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 \end{table}
-                
-? 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.58 \end{table}
-                
-? 
 <NNErrorRate.png, id=17, 578.16pt x 433.62pt>
 File: NNErrorRate.png Graphic file (type png)
  <use NNErrorRate.png>
-Package pdftex.def Info: NNErrorRate.png used on input line 62.
+Package pdftex.def Info: NNErrorRate.png used on input line 80.
 (pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
- [2 <./NNErrorRate.png>] [3] (./report.aux) ) 
+
+Underfull \vbox (badness 7099) has occurred while \output is active []
+
+ [2]
+<AutoEncoderError.png, id=22, 578.16pt x 433.62pt>
+File: AutoEncoderError.png Graphic file (type png)
+ <use AutoEncoderError.png>
+Package pdftex.def Info: AutoEncoderError.png used on input line 130.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+
+<AEErrorRate.png, id=23, 578.16pt x 433.62pt>
+File: AEErrorRate.png Graphic file (type png)
+ <use AEErrorRate.png>
+Package pdftex.def Info: AEErrorRate.png used on input line 136.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+
+<features.png, id=24, 578.16pt x 433.62pt>
+File: features.png Graphic file (type png)
+ <use features.png>
+Package pdftex.def Info: features.png used on input line 144.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+ [3 <./NNErrorRate.png>] [4 <./AutoEncoderError.png> <./AEErrorRate.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./features.png>] [6] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 22535 strings out of 494953
- 580521 string characters out of 6180976
- 728113 words of memory out of 5000000
- 25415 multiletter control sequences out of 15000+600000
+ 24148 strings out of 494953
+ 601732 string characters out of 6180976
+ 730232 words of memory out of 5000000
+ 27013 multiletter control sequences out of 15000+600000
  12096 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,8n,79p,736b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on report.pdf (3 pages, 100651 bytes).
+ 69i,10n,79p,736b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on report.pdf (6 pages, 400295 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

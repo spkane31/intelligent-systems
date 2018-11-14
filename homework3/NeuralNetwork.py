@@ -257,4 +257,4 @@ result = input('Do you want to save the data? (y/n)')
 if result == 'y':
     NN.saveNN()
 else:
-    print("Goodbye")
+print("Goodbye")
