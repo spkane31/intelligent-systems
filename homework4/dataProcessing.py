@@ -39,9 +39,9 @@ def processData():
         images.append(arr)
 
         # comment this out to get the whole dataset
-        numProcessed += 1
-        if numProcessed > 200:
-            break
+        # numProcessed += 1
+        # if numProcessed > 500:
+        #     break
         
     npImages = np.array(images)
     np.savetxt('npImages.txt', npImages, fmt='%2.5f')
@@ -61,8 +61,8 @@ def processLabels():
         count += 1
         
         # Get rid of this for whole dataset
-        if count > 200:
-            break
+        # if count > 500:
+        #     break
 
     npLabels = np.zeros(shape=(len(labels), 10))
     count = 0
